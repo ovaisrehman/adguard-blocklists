@@ -1,0 +1,37 @@
+! ===============================
+! Clash Royale / Supercell Blocklist
+! Compatible with AdGuard Home
+! ===============================
+
+||supercell.com^
+||supercell.net^
+||supercellgames.com^
+||supercellcdn.com^
+||scdn.co^
+
+||clashroyale.com^
+||clashroyaleapp.com^
+||game.clashroyaleapp.com^
+||prod.clashroyale.com^
+
+||events.supercell.net^
+||logs.supercell.com^
+||tracking.supercell.com^
+
+||api.supercell.com^
+||connect.supercell.com^
+
+||cdn.supercell.com^
+||assets.supercell.com^
+||images.supercell.com^
+
+! Google / Apple game backend endpoints used by Clash Royale
+||firebaseio.com^$important
+||googleapis.com^$important
+
+! Prevent fallback telemetry
+||crashlytics.com^
+
+! ===============================
+! END
+! ===============================

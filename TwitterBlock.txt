@@ -1,8 +1,19 @@
-0.0.0.0 twitter.com
-0.0.0.0 *.twitter.com
-0.0.0.0 x.com
-0.0.0.0 *.x.com
-0.0.0.0 t.co
-0.0.0.0 *.t.co
-0.0.0.0 twimg.com
-0.0.0.0 *.twimg.com
+twitter.com
+*.twitter.com
+x.com
+*.x.com
+t.co
+*.t.co
+twimg.com
+*.twimg.com
+abs.twimg.com
+periscope.tv
+*.periscope.tv
+pscp.tv
+*.pscp.tv
+twttr.com
+*.twttr.com
+twtrdns.net
+*.twtrdns.net
+tweetdeck.com
+*.tweetdeck.com
